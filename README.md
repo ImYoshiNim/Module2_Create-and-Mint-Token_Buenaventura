@@ -20,11 +20,11 @@ The transfer function allows a token holder to send a specified amount of tokens
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-The full program can accessed in the .sol file that is included in this repository. (file is named: Buenaventura_myToken.sol)
+The full program can accessed in the .sol file that is included in this repository. (file is named: CMT.sol)
 
 To compile the code, navigate to the "Solidity Compiler" tab in the left-hand side of the sidebar. Ensure the "Compiler" version is set to "0.8.18", and then click the "Compile Name_myToken.sol" button.
 
-Once the contract has finished compiling, select the "Deploy & Run Transactions" tab located on the sidebar's left side. Click "Deploy" after selecting the "My Token - FinalProject.sol" contract from the dropdown menu.
+Once the contract has finished compiling, select the "Deploy & Run Transactions" tab located on the sidebar's left side. Click "Deploy" after selecting the "CMT.sol" contract from the dropdown menu.
 
 ## Authors
 
